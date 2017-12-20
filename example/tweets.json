@@ -1,0 +1,32 @@
+[
+	{
+  				"id": 1,
+  				"tweet_text": "C'est un jour beau",
+   				"number_of_likes": 14,
+   				"number_of_retweets": 53,
+  				"number_of_replies": 345,
+   				"number_of_impressions": 1034,
+   				"location": "Paris, France",
+   				"date_time": "Sat 13 May 2017 02:00 UTC"
+			},
+			{
+  				"id": 2,
+  				"tweet_text": "Omo olorun nimi",
+   				"number_of_likes": 34,
+   				"number_of_retweets": 23,
+   				"number_of_replies": 12,
+   				"number_of_impressions": 2034,
+   				"location": "Lagos, Nigeria",
+   				"date_time": "Sat 13 May 2017 02:00 UTC"
+			},
+			{
+  				"id": 3,
+  				"tweet_text": "It's been an amazing evening.",
+   				"number_of_likes": 39,
+   				"number_of_retweets": 73,
+   				"number_of_replies": 17,
+   				"number_of_impressions": 203,
+   				"location": "London, England",
+   				"date_time": "Sat 13 May 2017 02:00 UTC"
+			}
+]

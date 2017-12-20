@@ -1,0 +1,27 @@
+<html>
+<head>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+
+  <script>
+  $.ajax({
+    url: '/tweets?id=3'
+  }).done( function(data) {
+    // DO STUFF WITH data
+    var myDiv = $(".template");
+
+    var child = myDiv.clone();
+    child.html( "<h1>" + data[0].tweet_text + "</h1>" );
+
+    myDiv.append(child);   
+  });
+  </script>
+
+</head>
+<body>
+Example of getting a tweet by ID
+  <!-- This DIV will be replaced with data -->
+  <div class="template">
+  </div>
+
+</body>
+<html>

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1, 
+	"firstname": "John", 
+	"lastname": "Doe", 
+	"favorite_show": "Dear White People", 
+	"school": "Winchester University"
+  },
+  {
+    "id": 2, 
+	"firstname": "Jane", 
+	"lastname": "Doe", 
+	"favorite_show": "Once Upon A Time", 
+	"school": "Williams College"
+  },
+  {
+    "id": 3, 
+	"firstname": "Albert", 
+	"lastname": "Lexington", 
+	"favorite_show": "Friends", 
+	"school": "University of Chicago"
+  }
+]

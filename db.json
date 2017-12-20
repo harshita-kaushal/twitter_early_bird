@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe",
+      "favorite_show": "Dear White People",
+      "School": "Winchester University"
+    },
+    {
+      "id": 2,
+      "firstname": "Diego",
+      "lastname": "Celis",
+      "favorite_show": "Parks and Recreation",
+      "School": "Stanford University"
+    }
+  ]
+}
